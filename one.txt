@@ -1,1 +1,3 @@
-sdfghjkiujytrewas
+Zero Trust is rapidly becoming the security model of choice for enterprises and governments alike. However, security leaders often don't know where to begin to implement it, or they feel daunted by the fundamental shifts in strategy and architecture Zero Trust demands.
+
+Read “A Practical Guide To A Zero Trust Implementation” from Forrester to understand the practical building blocks of a successful Zero Trust implementation roadmap.
